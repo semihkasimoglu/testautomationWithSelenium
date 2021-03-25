@@ -1,0 +1,15 @@
+dropdown\DropDownTest.class
+waits\WaitsTest2.class
+frames\FrameTests.class
+login\LoginTests.class
+hover\HoverTests.class
+alerts\ContextMenu.class
+horizontalSlider\HorizontalSilderTest.class
+javascript\JavascriptTests.class
+keypresses\KeyPressesTest.class
+base\BaseTest.class
+navigation\NavigationTests.class
+waits\WaitsTest.class
+alerts\FileUploadTest.class
+alerts\AlertsTest.class
+alerts\ModalTest.class
